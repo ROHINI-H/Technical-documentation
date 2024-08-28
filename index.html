@@ -1,0 +1,198 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width initial-scale=1.0">
+    <title>Technical Documentation</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <nav id="navbar">
+        <header>
+            <h1>Javascript documentation</h1>
+        </header>
+        <ul>
+            <li><a href="#Introduction" class="nav-link">Introduction</a></li>
+            <li><a href="#Basics" class="nav-link">Basics</a></li>
+            <li><a href="#Data_types" class="nav-link">Data types</a></li>
+            <li><a href="#Control_flow_statements" class="nav-link"> Control flow statements</a></li>
+            <li><a href="#Functions" class="nav-link">Functions</a></li>
+            <li><a href="#Objects" class="nav-link">Objects</a></li>
+            <li><a href="#Events" class="nav-link">Events</a></li>
+        </ul>
+    </nav>
+    <main id="main-doc">
+        <section class="main-section" id="Introduction">
+            <header>
+                <h2>Introduction</h2>
+            </header>
+            <p>JavaScript is an object-based scripting language which is lightweight and cross-platform.</p>
+            <p>Our JavaScript Tutorial is designed for beginners and professionals both. JavaScript is used to create
+                client-side dynamic pages.</p>
+            <p>JavaScript (js) is a light-weight object-oriented programming language which is used by several websites
+                for
+                scripting the webpages. It is an interpreted, full-fledged programming language that enables dynamic
+                interactivity on websites when applied to an HTML document. It was introduced in the year 1995 for
+                adding
+                programs to the webpages in the Netscape Navigator browser. Since then, it has been adopted by all other
+                graphical web browsers. With JavaScript, users can build modern web applications to interact directly
+                without
+                reloading the page every time. The traditional website uses js to provide several forms of interactivity
+                and
+                simplicity.</p>
+        </section>
+
+        <section class="main-section" id="Basics">
+            <header>
+                <h2>Basics</h2>
+            </header>
+            <p>A variable is a “named storage” for data. We can use variables to store goodies, visitors, and other
+                data.</p>
+
+            <p>To create a variable in JavaScript, use the let, var and const keyword.</p>
+            <code><pre>
+    let user = 'John', age = 25, message = 'Hello';
+    var message = 'Hello';
+    const myBirthday = '18.04.1982';</pre></code>
+            <p>The JavaScript comments are meaningful way to deliver message. It is used to add information about the
+                code,
+                warnings or suggestions so that end user can easily interpret the code.</p>
+
+        </section>
+
+        <section class="main-section" id="Data_types">
+            <header>
+                <h2>Data types</h2>
+            </header>
+            <p>JavaScript provides different data types to hold different types of values. There are two types of data
+                types
+                in JavaScript.</p>
+            <ul>
+                <li>Primitive data type</li>
+                <li>Non-primitive (reference) data type</li>
+            </ul>
+            <p>JavaScript is a dynamic type language, means you don't need to specify type of the variable because it is
+                dynamically used by JavaScript engine. You need to use var here to specify the data type. It can hold
+                any type
+                of values such as numbers, strings etc.</p>
+            <code><pre>
+    let billion = 1000000000;
+    let single = 'single-quoted';
+    let arr = new Array();
+    let arr = [];
+    let map = new Map();
+
+    map.set('1', 'str1');   // a string key
+    map.set(1, 'num1');     // a numeric key
+    map.set(true, 'bool1'); // a boolean key</pre>
+            </code>
+        </section>
+
+        <section class="main-section" id="Control_flow_statements">
+            <header>
+                <h2>Control flow statements</h2>
+            </header>
+            <p>The JavaScript if-else statement is used to execute the code whether condition is true or false. There
+                are
+                three forms of if statement in JavaScript.</p>
+            <ul>
+                <li>If Statement</li>
+                <li>If else statement</li>
+                <li>if else if statement</li>
+            </ul>
+            <p>The JavaScript switch statement is used to execute one code from multiple expressions. It is just like
+                else if
+                statement that we have learned in previous page. But it is convenient than if..else..if because it can
+                be used
+                with numbers, characters etc.</p>
+            <p>The JavaScript loops are used to iterate the piece of code using for, while, do while or for-in loops. It
+                makes
+                the code compact. It is mostly used in array.
+            <p>
+
+            <p>There are four types of loops in JavaScript.</p>
+            <ul>
+                <li>for loop</li>
+                <li>while loop</li>
+                <li>do-while loop</li>
+                <li>for-in loop</li>
+            </ul>
+                <code><pre>
+    for (initialization; condition; increment)  
+    {  
+    code to be executed  
+    }</pre>
+                </code>
+        </section>
+
+        <section class="main-section" id="Functions">
+            <header>
+                <h2>Functions</h2>
+            </header>
+            <p>Quite often we need to perform a similar action in many places of the script.</p>
+
+            <p>For example, we need to show a nice-looking message when a visitor logs in, logs out and maybe somewhere
+                else.
+            </p>
+
+            <p>Functions are the main “building blocks” of the program. They allow the code to be called many times
+                without
+                repetition.</p>
+
+            <p>There are built-in functions, like alert(message), prompt(message, default) and confirm(question). But we
+                can
+                create functions of our own as well.</p>
+            <code><pre>
+    function msg(){  
+        alert("hello! this is message");  
+    }  </pre>
+            </code>
+        </section>
+
+        <section class="main-section" id="Objects">
+            <header>
+                <h2>Objects</h2>
+            </header>
+            <p>A javaScript object is an entity having state and behavior (properties and method). For example: car,
+                pen,
+                bike, chair, glass, keyboard, monitor etc.</p>
+
+            <p>JavaScript is an object-based language. Everything is an object in JavaScript.</p>
+
+            <p>JavaScript is template based not class based. Here, we don't create class to get the object. But, we
+                direct
+                create objects.</p>
+            <p>There are 3 ways to create objects.</p>
+            <ol>
+                <li>By object literal</li>
+                <li>By creating instance of Object directly (using new keyword)</li>
+                <li>By using an object constructor (using new keyword)</li>
+            </ol>
+            <code><pre>
+    emp={id:102,name:"Shyam Kumar",salary:40000};  </pre>
+            </code>
+        </section>
+
+        <section class="main-section" id="Events">
+            <header>
+                <h2>Events</h2>
+            </header>
+            <p>The change in the state of an object is known as an Event. In html, there are various events which
+                represents
+                that some activity is performed by the user or by the browser. When javascript code is included in HTML,
+                js
+                react over these events and allow the execution. This process of reacting over the events is called
+                Event
+                Handling. Thus, js handles the HTML events via Event Handlers.</p>
+
+            <p>For example, when a user clicks over the browser, add js code, which will execute the task to be
+                performed on
+                the event.
+            <p>
+        </section>
+    </main>
+</body>
+
+</html>
