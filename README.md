@@ -27,6 +27,7 @@ This website is a Technical documentation page, showcasing my skills and experie
 ![Screenshot 2024-09-12 101721](https://github.com/user-attachments/assets/c0d57c03-f48f-4187-9964-b7cc544957ef)
 
 ### Mobile View
+---
 ![Screenshot 2024-09-12 102019](https://github.com/user-attachments/assets/b7bb896f-4b16-4b57-952e-cdcf1f34aa21)
 ![Screenshot 2024-09-12 102040](https://github.com/user-attachments/assets/210d001c-d3db-4e0e-ab4b-c338f3916ecb)
 ![Screenshot 2024-09-12 102053](https://github.com/user-attachments/assets/38233375-8346-46a0-a484-ce3489a76c9e)
