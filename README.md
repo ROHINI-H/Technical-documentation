@@ -28,13 +28,12 @@ This website is a Technical documentation page, showcasing my skills and experie
 
 ### Mobile View
 ---
-![Screenshot 2024-09-12 102019](https://github.com/user-attachments/assets/b7bb896f-4b16-4b57-952e-cdcf1f34aa21)
-![Screenshot 2024-09-12 102040](https://github.com/user-attachments/assets/210d001c-d3db-4e0e-ab4b-c338f3916ecb)
-![Screenshot 2024-09-12 102053](https://github.com/user-attachments/assets/38233375-8346-46a0-a484-ce3489a76c9e)
-![Screenshot 2024-09-12 102109](https://github.com/user-attachments/assets/f2860fa5-ad5e-4583-99c0-2dd6ee21b570)
-![Screenshot 2024-09-12 102121](https://github.com/user-attachments/assets/a5438b8c-9014-4be9-b275-0952b73c9aa1)
-![Screenshot 2024-09-12 102133](https://github.com/user-attachments/assets/eb332d4d-5c14-4af9-bb14-b3a16d9e7377)
-
+<img src="https://github.com/user-attachments/assets/b7bb896f-4b16-4b57-952e-cdcf1f34aa21" alt="Mobile view" width=200 />
+<img src="https://github.com/user-attachments/assets/210d001c-d3db-4e0e-ab4b-c338f3916ecb" alt="Mobile view" width=200 />
+<img src="https://github.com/user-attachments/assets/38233375-8346-46a0-a484-ce3489a76c9e" alt="Mobile view" width=200 />
+<img src="https://github.com/user-attachments/assets/f2860fa5-ad5e-4583-99c0-2dd6ee21b570" alt="Mobile view" width=200 />
+<img src="https://github.com/user-attachments/assets/a5438b8c-9014-4be9-b275-0952b73c9aa1" alt="Mobile view" width=200 />
+<img src="https://github.com/user-attachments/assets/eb332d4d-5c14-4af9-bb14-b3a16d9e7377" alt="Mobile view" width=200 />
 
 ## FCC User Story
 The project meets the following user stories:
