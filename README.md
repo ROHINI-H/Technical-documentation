@@ -1,25 +1,25 @@
-# FreeCodeCamp Project: Build a Technical-documentation
+# 👩🏻‍💻FreeCodeCamp Project: Build a Technical-documentation
 
-## Description
+## 🗒️Description
 This repository contains my solution to the FreeCodeCamp "Build a Technical Documentation Page" challenge as part of Responsive Web Design Course. The goal of this project is to create a responsive Technical documentation website that showcases my skills and experience. I have designed and developed the website showcasing my ability to create clear and concise documentation.
 
-## FCC Challenge Link
+## 🏆FCC Challenge Link
 https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page
 
-## Installation
+## 🌠Installation
 To view this project, simply clone this repository and open the index.html file in your web browser.
 
-## Usage
+## 🌟Usage
 This website is a Technical documentation page, showcasing my skills and experience in web development. You can use it as a template for your own Technical documentation page.
 
-## Features
+## 🌈Features
 
 - Responsive Design: Accessible on various devices and screen sizes.
 - Navigation Menu: Easy-to-use menu for quick access to different sections.
 - Code Examples: Practical code snippets to illustrate key concepts.
 - Clear Typography: Readable font sizes and styles for optimal comprehension.
 
-## Demo
+## 🌸Demo
 ### Desktop or Laptop view
 ![Screenshot 2024-09-12 101634](https://github.com/user-attachments/assets/a02fd0ba-8d7f-434b-b601-8a9edb99a74e)
 ![Screenshot 2024-09-12 101650](https://github.com/user-attachments/assets/d743f134-94e0-4a49-8388-deeaa70007fa)
@@ -35,7 +35,7 @@ This website is a Technical documentation page, showcasing my skills and experie
 <img src="https://github.com/user-attachments/assets/a5438b8c-9014-4be9-b275-0952b73c9aa1" alt="Mobile view" width=250 />
 <img src="https://github.com/user-attachments/assets/eb332d4d-5c14-4af9-bb14-b3a16d9e7377" alt="Mobile view" width=250 />
 
-## FCC User Story
+## 🛸FCC User Story
 The project meets the following user stories:
 
 1. You can see a main element with a corresponding id="main-doc", which contains the page's main content (technical documentation)
@@ -56,14 +56,14 @@ The project meets the following user stories:
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
-## Contributing
+## 🫱🏼‍🫲🏼Contributing
 If you'd like to contribute to this project, please fork this repository and submit a pull request. You can also report issues or suggest improvements by opening an issue.
 
-## License
+## 🔏License
 This project is licensed under the MIT License.
 
-## Acknowledgments
+## 🙇🏻‍♀️Acknowledgments
 Special thanks to FreeCodeCamp for providing the challenge and resources to learn web development.
 
-## Connect with me
+## 🚀Connect with me
 If you'd like to learn more about my work or connect professionally, you can find me on LinkedIn: www.linkedin.com/in/rohini-h
